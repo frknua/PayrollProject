@@ -1,0 +1,12 @@
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\bin\Debug\netcoreapp3.1\PayrollProject.Service.deps.json
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\bin\Debug\netcoreapp3.1\PayrollProject.Service.dll
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\bin\Debug\netcoreapp3.1\PayrollProject.Service.pdb
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\bin\Debug\netcoreapp3.1\PayrollProject.Model.dll
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\bin\Debug\netcoreapp3.1\PayrollProject.Model.pdb
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\obj\Debug\netcoreapp3.1\PayrollProject.Service.csprojAssemblyReference.cache
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\obj\Debug\netcoreapp3.1\PayrollProject.Service.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\obj\Debug\netcoreapp3.1\PayrollProject.Service.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\obj\Debug\netcoreapp3.1\PayrollProject.Service.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\obj\Debug\netcoreapp3.1\PayrollProject.Service.dll
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\obj\Debug\netcoreapp3.1\PayrollProject.Service.pdb
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Service\obj\Debug\netcoreapp3.1\PayrollProject.Service.csproj.CoreCompileInputs.cache

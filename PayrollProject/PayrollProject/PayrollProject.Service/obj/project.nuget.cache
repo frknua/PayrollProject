@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsOU0ADEeiby2X5yrLeTgNfZSe2TJwiu2L0yGM7dHlUydST3f+6qmXlaXiOU3NzKldFZxMgFXKV5Viks9Ai83g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FURKAN\\Desktop\\PayrollProject\\PayrollProject\\PayrollProject.Service\\PayrollProject.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FURKAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

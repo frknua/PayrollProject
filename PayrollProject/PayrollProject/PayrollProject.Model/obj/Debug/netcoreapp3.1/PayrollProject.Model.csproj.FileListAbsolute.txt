@@ -1,0 +1,9 @@
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\bin\Debug\netcoreapp3.1\PayrollProject.Model.deps.json
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\bin\Debug\netcoreapp3.1\PayrollProject.Model.dll
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\bin\Debug\netcoreapp3.1\PayrollProject.Model.pdb
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\obj\Debug\netcoreapp3.1\PayrollProject.Model.csprojAssemblyReference.cache
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\obj\Debug\netcoreapp3.1\PayrollProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\obj\Debug\netcoreapp3.1\PayrollProject.Model.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\obj\Debug\netcoreapp3.1\PayrollProject.Model.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\obj\Debug\netcoreapp3.1\PayrollProject.Model.dll
+C:\Users\FURKAN\Desktop\PayrollProject\PayrollProject\PayrollProject.Model\obj\Debug\netcoreapp3.1\PayrollProject.Model.pdb
